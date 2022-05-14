@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/byte-buddy-1.12.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/failsafe-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-buffer-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-codec-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-codec-http-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-codec-socks-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-handler-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-handler-proxy-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-resolver-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-classes-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-classes-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-native-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-native-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/netty-transport-native-unix-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-api-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-context-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-exporter-logging-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-common-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-logs-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-metrics-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-sdk-trace-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/opentelemetry-semconv-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-api-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-api-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-chrome-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-chrome-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-chromium-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-chromium-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v100-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v100-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v101-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v101-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v85-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v85-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v99-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-devtools-v99-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-edge-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-edge-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-firefox-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-firefox-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-http-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-http-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-ie-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-ie-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-java-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-java-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-json-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-json-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-opera-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-opera-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-remote-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-remote-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-safari-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-safari-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-support-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/resources/libraries/selenium-support-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/yeni/Yeni1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/target/test-classes/yeni/Yeni1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLambda/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaLambda/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLambda/out/production/JavaLambda/lambdaSearch/~$mbda 02.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLambda/out/production/JavaLambda/lambdaTutorial/Lambda06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaLambda/out/production/JavaLambda/lambdaTutorial/Lambda06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Working Area/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Working Area/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/Age.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/CheckNumberEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/CountE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/Days.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/Exam1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/FactorialNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/FilmTahmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/GetTotal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="297XcSh2HZgsmVQfOQ3sbHcsYwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.C04_BeforeAfter">
+    <configuration name="C03_JUnitIlkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_JUnitIlkTest.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_JUnitIlkTest.method2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
+      <option name="METHOD_NAME" value="method2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_JUnitIlkTest.method3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
+      <option name="METHOD_NAME" value="method3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_BeforeAfter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C04_BeforeAfter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C04_BeforeAfter" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest.method3" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest.method2" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest.method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="" />
+      <created>1652465192207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652465192207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
