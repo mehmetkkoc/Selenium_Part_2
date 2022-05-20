@@ -5,6 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C01_BeforeClass_AfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C02_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C03_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C04_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C02_BestBuyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C03_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C04_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C05_DropDownOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C06_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C01_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C02_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C03_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C04_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C01_HandleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C02_HandleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C03_WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C01_TestBaseFirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C03_MouseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C04_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C05_KeyboradActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
@@ -113,6 +138,16 @@
       <change beforePath="$PROJECT_DIR$/../Working Area/src/GetTotal.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C01_MavenIlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C01_MavenIlkClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C02_MavenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C02_MavenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C03_JUnitIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C03_JUnitIlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C04_BeforeAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C04_BeforeAfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/Examples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C01_MavenIlkClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C01_MavenIlkClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C02_MavenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C02_MavenTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C03_JUnitIlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C03_JUnitIlkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C04_BeforeAfter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C04_BeforeAfter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
@@ -146,92 +181,93 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.C04_BeforeAfter">
-    <configuration name="C03_JUnitIlkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C06_KeyboardActions.test">
+    <configuration name="C03_MouseActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="PATTERN" value="day10_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day05_JUnit" />
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C03_MouseActions" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Actions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C04_Actions" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_KeyboradActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C05_KeyboradActions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_JUnitIlkTest.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_KeyboradActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="PATTERN" value="day10_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day05_JUnit" />
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
-      <option name="METHOD_NAME" value="method" />
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C05_KeyboradActions" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_JUnitIlkTest.method2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_KeyboardActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_JUnit.*" />
+          <option name="PATTERN" value="day10_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day05_JUnit" />
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
-      <option name="METHOD_NAME" value="method2" />
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C06_KeyboardActions" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_JUnitIlkTest.method3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day05_JUnit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day05_JUnit" />
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C03_JUnitIlkTest" />
-      <option name="METHOD_NAME" value="method3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_BeforeAfter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day05_JUnit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day05_JUnit" />
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit.C04_BeforeAfter" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C04_BeforeAfter" />
-        <item itemvalue="JUnit.C03_JUnitIlkTest" />
-        <item itemvalue="JUnit.C03_JUnitIlkTest.method3" />
-        <item itemvalue="JUnit.C03_JUnitIlkTest.method2" />
-        <item itemvalue="JUnit.C03_JUnitIlkTest.method" />
+        <item itemvalue="JUnit.C06_KeyboardActions.test" />
+        <item itemvalue="JUnit.C05_KeyboradActions.test" />
+        <item itemvalue="JUnit.C05_KeyboradActions" />
+        <item itemvalue="JUnit.C04_Actions.test" />
+        <item itemvalue="JUnit.C03_MouseActions.test" />
       </list>
     </recent_temporary>
   </component>

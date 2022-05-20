@@ -1,5 +1,10 @@
-package Day05_JUnit;
+package day05_JUnit;
 
 public class Examples {
+
+
+
+
+
 
 }
