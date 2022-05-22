@@ -5,32 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C01_BeforeClass_AfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C02_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C03_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C04_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C01_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C02_BestBuyAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C03_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C04_DropDownMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C05_DropDownOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C06_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C01_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C02_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C03_BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iFrame/C04_IFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C01_HandleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C02_HandleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C03_WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C01_TestBaseFirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C02_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C03_MouseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C04_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C05_KeyboradActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C01_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C03_FileExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C05_FileUpload.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/utulities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice2022-master/javaPractice2022.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
@@ -139,15 +133,13 @@
       <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C01_MavenIlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C01_MavenIlkClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C02_MavenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C02_MavenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C03_JUnitIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C03_JUnitIlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/C04_BeforeAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C04_BeforeAfter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/Examples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C01_MavenIlkClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C01_MavenIlkClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C02_MavenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C02_MavenTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C03_JUnitIlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C03_JUnitIlkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C04_BeforeAfter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day05_JUnit/C04_BeforeAfter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C01_HandleWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C02_HandleWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C03_WindowHandles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day10_actions/C06_KeyboardActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day10_actions/C06_KeyboardActions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
@@ -171,90 +163,93 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="297XcSh2HZgsmVQfOQ3sbHcsYwI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.C06_KeyboardActions.test">
-    <configuration name="C03_MouseActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C05_FileUpload.test">
+    <configuration name="C01_Faker.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
+          <option name="PATTERN" value="day11_faker_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C03_MouseActions" />
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C01_Faker" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Actions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
+          <option name="PATTERN" value="day11_faker_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C04_Actions" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_KeyboradActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C05_KeyboradActions" />
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C02_Actions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_KeyboradActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FileExists.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
+          <option name="PATTERN" value="day11_faker_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C05_KeyboradActions" />
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C03_FileExists" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_FileDownload.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C04_FileDownload" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_KeyboardActions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_FileUpload.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
+          <option name="PATTERN" value="day11_faker_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C06_KeyboardActions" />
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C05_FileUpload" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -263,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C06_KeyboardActions.test" />
-        <item itemvalue="JUnit.C05_KeyboradActions.test" />
-        <item itemvalue="JUnit.C05_KeyboradActions" />
-        <item itemvalue="JUnit.C04_Actions.test" />
-        <item itemvalue="JUnit.C03_MouseActions.test" />
+        <item itemvalue="JUnit.C05_FileUpload.test" />
+        <item itemvalue="JUnit.C04_FileDownload.test" />
+        <item itemvalue="JUnit.C03_FileExists.test01" />
+        <item itemvalue="JUnit.C01_Faker.test" />
+        <item itemvalue="JUnit.C02_Actions" />
       </list>
     </recent_temporary>
   </component>
@@ -292,5 +287,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
