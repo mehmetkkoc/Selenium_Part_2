@@ -8,8 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import javax.xml.crypto.KeySelectorResult;
-
 public class C02_Actions extends TestBase {
 
     @Test

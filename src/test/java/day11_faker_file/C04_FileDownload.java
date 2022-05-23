@@ -1,6 +1,5 @@
 package day11_faker_file;
 
-import junit.framework.TestCase;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;

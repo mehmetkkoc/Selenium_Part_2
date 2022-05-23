@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C01_Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C03_FileExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C05_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C01_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C02_ExplicitlyWait.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/compiler.xml" afterDir="false" />
@@ -133,13 +130,11 @@
       <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C01_HandleWindows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C02_HandleWindows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day06_radioButton_checkBox/day09_handleWindows_testBase/C03_WindowHandles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day10_actions/C06_KeyboardActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day10_actions/C06_KeyboardActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C02_Actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C02_Actions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C04_FileDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C04_FileDownload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C05_FileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C05_FileUpload.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
@@ -176,34 +171,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.C05_FileUpload.test">
-    <configuration name="C01_Faker.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_ExplicitlyWait.test02">
+    <configuration name="C01_ExplicitlyWait.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="PATTERN" value="day12_senkronizasyon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_faker_file" />
-      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C01_Faker" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day12_senkronizasyon" />
+      <option name="MAIN_CLASS_NAME" value="day12_senkronizasyon.C01_ExplicitlyWait" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_ExplicitlyWait.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="PATTERN" value="day12_senkronizasyon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_faker_file" />
-      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C02_Actions" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day12_senkronizasyon" />
+      <option name="MAIN_CLASS_NAME" value="day12_senkronizasyon.C01_ExplicitlyWait" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -258,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_ExplicitlyWait.test02" />
+        <item itemvalue="JUnit.C01_ExplicitlyWait.test01" />
         <item itemvalue="JUnit.C05_FileUpload.test" />
         <item itemvalue="JUnit.C04_FileDownload.test" />
         <item itemvalue="JUnit.C03_FileExists.test01" />
-        <item itemvalue="JUnit.C01_Faker.test" />
-        <item itemvalue="JUnit.C02_Actions" />
       </list>
     </recent_temporary>
   </component>
