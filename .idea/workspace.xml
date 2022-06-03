@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="658061c6-b469-4399-b131-7c00438e0578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C01_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C02_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dokuman/__00 Selenium batch44.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C03_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C03_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C04_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C05_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C06_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_writeExcel_screenShot/C01_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_writeExcel_screenShot/C02_TumSayfaScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_writeExcel_screenShot/C03_IstenenWebElementScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_writeExcel_screenShot/C04_JS_Executor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/compiler.xml" afterDir="false" />
@@ -20,7 +33,34 @@
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C04.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C05.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/excercise/C19.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/src/test/java/utulities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/target/test-classes/excercise/C13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/pages/FacebookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C01_BeforeMethod_AfterMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C02_BeforeClass_AfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C03_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C05_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day16_notations/C06_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day17_pageObjectModel/C01_YeniDriverIlkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day17_pageObjectModel/C02_PageClassKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day17_pageObjectModel/C03_PageClassKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day18_pom/C01_ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day18_pom/C02_ConfigReaderKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/utilities/TestBase.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaPractice2022-master/javaPractice2022.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
@@ -130,11 +170,11 @@
       <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C02_Actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C02_Actions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C04_FileDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C04_FileDownload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C05_FileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_faker_file/C05_FileUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C01_ExplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C01_ExplicitlyWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day12_senkronizasyon/C01_ExplicitlyWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day12_senkronizasyon/C01_ExplicitlyWait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
@@ -170,24 +210,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TechPro\Projeler\com.Batch59JUnit\src\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TechPro\Projeler\com.Batch59JUnit\src\resources" />
+      <recent name="D:\TechPro\Projeler\com.Batch59JUnit\src\test\java\Dokuman" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.C01_ExplicitlyWait.test02">
-    <configuration name="C01_ExplicitlyWait.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12_senkronizasyon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day12_senkronizasyon" />
-      <option name="MAIN_CLASS_NAME" value="day12_senkronizasyon.C01_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C01_ExplicitlyWait.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
@@ -199,6 +233,22 @@
       <option name="PACKAGE_NAME" value="day12_senkronizasyon" />
       <option name="MAIN_CLASS_NAME" value="day12_senkronizasyon.C01_ExplicitlyWait" />
       <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_TumSayfaScreenShot.tumSayfa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
+      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C02_TumSayfaScreenShot" />
+      <option name="METHOD_NAME" value="tumSayfa" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,33 +270,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_FileDownload.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_IstenenWebElementScreenShot.webElementScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_faker_file" />
-      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C04_FileDownload" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
+      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C03_IstenenWebElementScreenShot" />
+      <option name="METHOD_NAME" value="webElementScreenShot" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_FileUpload.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_JS_Executor.jsExecutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_faker_file" />
-      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C05_FileUpload" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
+      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C04_JS_Executor" />
+      <option name="METHOD_NAME" value="jsExecutor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,10 +305,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.C01_ExplicitlyWait.test02" />
-        <item itemvalue="JUnit.C01_ExplicitlyWait.test01" />
-        <item itemvalue="JUnit.C05_FileUpload.test" />
-        <item itemvalue="JUnit.C04_FileDownload.test" />
         <item itemvalue="JUnit.C03_FileExists.test01" />
+        <item itemvalue="JUnit.C04_JS_Executor.jsExecutor" />
+        <item itemvalue="JUnit.C03_IstenenWebElementScreenShot.webElementScreenShot" />
+        <item itemvalue="JUnit.C02_TumSayfaScreenShot.tumSayfa" />
       </list>
     </recent_temporary>
   </component>

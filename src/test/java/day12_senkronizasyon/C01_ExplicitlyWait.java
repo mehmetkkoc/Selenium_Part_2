@@ -58,6 +58,7 @@ public class C01_ExplicitlyWait extends TestBase {
                                         visibilityOfElementLocated(By.xpath("//p[@id='message']")));
         Assert.assertTrue(itsGoneYaziElementi.isDisplayed());
 
+        
         //6. Add buttonuna basin
         driver.findElement(By.xpath("//*[text()='Add']")).click();
         //7. It’s back mesajinin gorundugunu test edin
